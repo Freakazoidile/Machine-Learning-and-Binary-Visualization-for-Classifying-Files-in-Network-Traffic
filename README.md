@@ -1,0 +1,2 @@
+# Machine-Learning-and-Binary-Visualization-for-Classifying-Files-in-Network-Traffic
+We propose a tool that extracts unencrypted network data from packet captures files and uses binary visualization techniques, namely: entropy, natural translation, and hilbert curve to create images from the data. Those images are then used as a training set for the machine learning process. We showcase the classifications of image and evaluate the accuracy of various models. We conclude with a summary of our findings.
